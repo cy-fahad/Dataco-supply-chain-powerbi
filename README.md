@@ -11,7 +11,7 @@ An interactive Power BI dashboard analyzing 180,000+ supply chain transactions a
 ## Dashboard Pages
 
 ### Page 1 — Executive Summary
-![Executive Summary](page1_executive_summary.png)
+![Executive Summary](page%201_Executive_summary.png)
 
 High-level KPI overview for senior leadership. Six headline cards surface the most critical business metrics at a glance, supported by a year-over-year sales trend line and market distribution donut chart.
 
@@ -28,7 +28,7 @@ High-level KPI overview for senior leadership. Six headline cards surface the mo
 ---
 
 ### Page 2 — Regional & Market Performance
-![Regional Performance](page2_regional_performance.png)
+![Regional Performance](page%202_regional_performance.png)
 
 Geographic and market-level breakdown of sales and profitability. Identifies where revenue is concentrated and where margin is strongest relative to volume.
 
@@ -41,7 +41,7 @@ Geographic and market-level breakdown of sales and profitability. Identifies whe
 ---
 
 ### Page 3 — Product & Category Analysis
-![Product Analysis](page3_product_analysis.png)
+![Product Analysis](page%203_product_analysis.png)
 
 Category and product-level profitability analysis. Identifies high-volume low-margin categories and products where discounting may be eroding profitability.
 
@@ -54,8 +54,7 @@ Category and product-level profitability analysis. Identifies high-volume low-ma
 ---
 
 ### Page 4 — Delivery & Logistics Intelligence
-![Logistics Intelligence](page4_logistics_intelligence.png)
-
+![Logistics Intelligence](page%204_logistics_intelligence.png)
 Operational deep-dive into delivery performance across shipping modes and global regions. Designed to support logistics optimization decisions.
 
 **Key insights:**
