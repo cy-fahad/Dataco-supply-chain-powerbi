@@ -191,4 +191,4 @@ dataco-supply-chain-powerbi/
 
 Built by **Fahad Usman** as part of a business intelligence portfolio demonstrating applied data analysis skills in Power BI. The project mirrors real-world enterprise BI workflows including scripted data transformation, dimensional data modeling, DAX time intelligence, and multi-stakeholder dashboard design.
 
-**Connect:** [LinkedIn](https://www.linkedin.com/in/fahad-usman) · [GitHub](https://github.com/cy-fahad)
+**Connect:** [LinkedIn](https://www.linkedin.com/in/fahad-usman-2702bb192/)· [GitHub](https://github.com/cy-fahad)
