@@ -1,4 +1,6 @@
 # DataCo Global Supply Chain Performance Dashboard
+## Live Interactive Dashboard
+[Click here to view the live dashboard](https://app.powerbi.com/reportEmbed?reportId=c3dfb7e5-22cd-4339-bbc7-68642797a930&autoAuth=true&ctid=ec37a091-b9a6-47e5-98d0-903d4a419203)
 
 An interactive Power BI dashboard analyzing 180,000+ supply chain transactions across five global markets. Built to demonstrate enterprise-level business intelligence skills including data modeling, DAX measure development, Power Query transformations, and multi-page dashboard design.
 
